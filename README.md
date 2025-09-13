@@ -1,6 +1,4 @@
 # CNN-For-CIFAR10
-# Question 1: CNN for CIFAR-10 Classification
-
 ## 🎯 Objective
 Build and train a Convolutional Neural Network (CNN) for image classification using the CIFAR-10 dataset. This implementation explores CNN architecture, feature extraction, model evaluation, and hyperparameter optimization.
 
